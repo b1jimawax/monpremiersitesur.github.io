@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Localisation géographique</title>
+	<link href="clocalisation.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+   <div class="contenercentral" >
+	   <header>
+	   <h1>Les <i>13</i> parcs du Gabon</h1>
+	  
+     <nav>
+	        <ul>
+		        <li><a href="monsecondprojet.html">Accueil</a></li>
+				<li><a href="objectifsdusites.html">Objectifs</li>
+				<li><a href="parcssite.html">Parcs</a></li>
+     
+				<li><a href="Localisationsites.html">Localisation</li>
+				<li><a href="especesprotegesdusites.html">Espèces protégées</a></li>
+				<li><a href="hoteleriedusites.html">Hotelerie</a></li>
+					
+				
+
+		        <li><a href="contactdusites.html">Contacts</a></li>
+		   </ul>
+	</nav>
+	  </header><hr>
+
+	  <section> 
+	 
+	         
+			   <h3>Localisation des parcs nationaux du Gabon</h3> <hr>  <br>
+
+			  <div id="img"><img src="kb.jpg" width="800" height="500" alt="photo">
+	
+	          </div>
+
+				 
+	</section>
+   <aside>
+	
+	<h4>Table des provinces et superficies :</h4><br>
+	   
+	
+	<table >
+	<tr style="
+    text-align: center;
+    background-color: #0bce08;">
+    <td>PARCS:</td><br>
+	<td>PROVINCE:</td>
+	<td>SUPERFICIE:</td>
+	</tr>
+	<tr>
+	<td>AKANDA</td>
+	<td>Estuaire</td>
+	<td>540km²</td>
+	</tr>
+	<tr>
+	<td>BIRIGOU</td>
+	<td>Ngounie</td>
+	<td>690km²</td>
+	</tr>
+	<tr>
+	<td>IVINDO</td>
+	<td>Ogooue ivindo</td>
+	<td>3000km²</td>
+	</tr>
+	<tr>
+	<td>LOANGO</td>
+	<td>Ogooue maritime</td>
+	<td>1550km²</td>
+	</tr>
+	<tr>
+	<td>LOPE</td>
+	<td>Ogooue ivindo</td>
+	<td>4970km²</td>
+	</tr>
+	<tr>
+	<td>MAYUMBA</td>
+	<td>Nyanga</td>
+	<td>80km²</td>
+	</tr>
+	<tr>
+	<td>MINKEBE</td>
+	<td>Woleu-ntem</td>
+	<td>7560km²</td>
+	</tr>
+	<tr>
+	<td>MONT DE CRISTAL</td>
+	<td>Estuaire</td>
+	<td>1200km²</td>
+	</tr>
+	<tr>
+	<td>MOUKALABA-DOUDOU</td>
+	<td>Nyanga</td>
+	<td>4500km²</td>
+	</tr>
+	<tr>
+	<td>MWANGA</td>
+	<td>Ogooue ivindo</td>
+	<td>1160km²</td>
+	</tr>
+	<tr>
+	<td>PLATEAUX BATEKE</td>
+	<td>Haut-ogooue</td>
+	<td>2050km²</td>
+	</tr>
+	<tr>
+	<td>PONGARA</td>
+	<td>Estuaire</td>
+	<td>870km²</td>
+	</tr>
+	<tr>
+	<td>WAKA</td>
+	<td>Ngounie</td>
+	<td>1070km²</td>
+	</tr>
+	</table>
+	 </aside>
+
+	 <div id="foo" style="width:90% ;position:absolute ;top:870px ;text-align:center"><img src="CaptureFOOT.png" width="90%" height="100"> </div>
+	  
+   
+   
+   
+   <hr>
+  
+      <footer><p>Copyright_apprentieDeveloppement_Benjamin MBA ALLOGO_Tous droits reservés</p></footer>
+
+  </div>
+
+	</body>
+</html>
